@@ -27,7 +27,7 @@ jobs:
           java-version: 17
 
       - name: Build with Gradle
-        run: ./gradlew build --full-stacktrace
+        run: ./gradlew build
         
       - name: Upload a Build Target 
         uses: actions/upload-artifact@v2
