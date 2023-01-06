@@ -215,7 +215,7 @@ Keep in mind it should be simple, but complex ones are welcome too!_
 - [X] Tame Damage Boost (Tames do more DPS)
 - [X] Tame Health Regen (Tames have passive regen)
 - [ ] Tamed Vampirism  (Familiar)
-
+ 
 ## Unarmed:
 - [X] Unarmed Power (Make unarmed Viable)
 - [X] Sucker Punch (One PunCh!)
@@ -223,7 +223,7 @@ Keep in mind it should be simple, but complex ones are welcome too!_
 - [X] Glass Cannon (Less Armor = More damage to / from you)
 - [ ] Remote Grab?
 - [ ] Increased Boss Damage
-- [ ] Passive Strength while unarmed
+- [ ] Passive Strength while unarmed 
 
 ## Chronos: _(Unimplemented)_
 - [ ] Chronos Slowdown (Passive Slowdown for entities in the world near you)
